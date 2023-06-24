@@ -138,30 +138,30 @@
     
                              
 
-          1-Studnt Name: Adnan Abdulrahim Aloqmani                 <br />
+          1-Studnt Name:                  <br />
 
-            Studnt Number: 4003784  
+            Studnt Number:   
                 <br />
                         <br />
 
-          2-Studnt Name: Mohammed Adnan Alshaibani                 <br />
+          2-Studnt Name:                  <br />
 
-            Studnt Number: 4004354 
+            Studnt Number:  
         <br />
                         <br />
 
-           3-Studnt Name: Asim Omar Saeedi                 <br />
+           3-Studnt Name:                  <br />
 
-            Studnt Number: 4003981
+            Studnt Number: 
 
         
         
         <br />
                         <br />
 
-            Section: YISB2<br />
+            Section: <br />
             Cours Name: Web_App Devolbment 2 - (IS 345) <br />
-            DR.Natheer Gribh  
+            DR.  
                                              
 
                 <br />
